@@ -1,13 +1,8 @@
 ## 📊 Project Presentation
 
-📄 [View Full PDF Report](Presentation/Shopify_Sales_Analysis.pdf)
-
 📥 [Download PowerPoint Presentation](Presentation/Shopify_Sales_Analysis_Full.pptx)
 
-### Preview
-
-![Dashboard](Images/dashboard.png)
-![Sales Trend](Images/sales_trend.png)# 🛒 Shopify E-Commerce Sales Analysis
+# 🛒 Shopify E-Commerce Sales Analysis
 
 ## 📌 Project Overview
 
