@@ -2,7 +2,16 @@
 
 ## 🎤 Interactive Presentation
 
-👉<iframe src="Shopify_Krish_Sales_Analysis_Full_Presentation" width="100%" height="600"></iframe>
+<!DOCTYPE html>
+<html>
+<body>
+  <iframe
+    src="Shopify_Krish_Sales_Analysis_Full_Presentation.pptx"
+    width="100%"
+    height="900">
+  </iframe>
+</body>
+</html>
 
 # 🛒 Shopify E-Commerce Sales Analysis
 
