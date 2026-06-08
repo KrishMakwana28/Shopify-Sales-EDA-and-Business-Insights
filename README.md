@@ -6,7 +6,7 @@
 <html>
 <body>
   <iframe
-    src="Shopify_Krish_Sales_Analysis_Full_Presentation.pptx"
+    src="Shopify_Sales_Analysis_Full_Presentation.pptx"
     width="100%"
     height="900">
   </iframe>
