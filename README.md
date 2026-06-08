@@ -1,6 +1,6 @@
 ## 📊 Project Presentation
 
-📥 [Download PowerPoint Presentation](Presentation/Shopify_Sales_Analysis_Full_presentation.pptx)
+📥 [Download PowerPoint Presentation](Presentation/Shopify_Sales_Analysis_Full_Presentation.pptx)
 
 # 🛒 Shopify E-Commerce Sales Analysis
 
