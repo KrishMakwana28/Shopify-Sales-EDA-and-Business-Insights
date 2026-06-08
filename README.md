@@ -1,18 +1,3 @@
-## 📊 Project Presentation
-
-## 🎤 Interactive Presentation
-
-<!DOCTYPE html>
-<html>
-<body>
-  <iframe
-    src="Shopify_Analysis_code_pdf.pdf"
-    width="100%"
-    height="900">
-  </iframe>
-</body>
-</html>
-
 # 🛒 Shopify E-Commerce Sales Analysis
 
 ## 📌 Project Overview
